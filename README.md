@@ -16,24 +16,24 @@ a objetos, como herança, sobrescrita de métodos, tratamento de exceções e co
 Para isso, vocês devem implementar as seguintes classes:</p>
 1.  Produto: Essa classe representa um produto da loja. Cada produto possui um código,
 nome, descrição, preço e quantidade em estoque. Vocês devem implementar os métodos
-necessários para obter e definir os valores desses atributos.<br>
+necessários para obter e definir os valores desses atributos.<br><br>
 2.  ProdutoFisico: Essa é uma subclasse de Produto e representa um produto físico
 disponível na loja. Além dos atributos herdados da classe Produto, um produto físico
 possui também informações como peso e dimensões. Vocês devem sobrescrever o
 método de exibir informações sobre o produto para exibir também essas informações
-específicas.<br>
+específicas.<br><br>
 3.  ProdutoDigital: Essa é uma subclasse de Produto que representa um produto digital
 disponível na loja. Além dos atributos herdados da classe Produto, um produto digital
 possui informações como formato (MP3, PDF, etc.) e tamanho do arquivo. Vocês devem
 sobrescrever o método de exibir informações sobre o produto para exibir também essas
-informações específicas.<br>
+informações específicas.<br><br><br>
 
 4.  Carrinho: Essa classe representa o carrinho de compras de um cliente. Cada carrinho
 possui uma coleção de produtos adicionados. Vocês devem implementar os métodos
 necessários para adicionar um produto ao carrinho, remover um produto do carrinho e
-calcular o valor total da compra.<br>
+calcular o valor total da compra.<br><br>
 5.  Loja: Essa classe representa a loja de e-commerce. Cada loja possui uma coleção de
 todos os produtos disponíveis. Vocês devem implementar os métodos necessários para
 adicionar um produto ao catálogo da loja, exibir informações sobre um produto,
 processar um pedido de compra (atualizando o estoque) e gerar um relatório com todos
-os produtos disponíveis.<br>
+os produtos disponíveis.<br><br>
