@@ -1,6 +1,6 @@
 # ProjetoFinalApresentacao
 Atividade avaliativa da instituição Fatec de Itapira Ministrada pelo Professor Marcos Roberto de Moraes.
-<h1>Desafio em JAVA </h1>
+<h1>Desafio em JAVA </h1> 
 <p>
 Prezados alunos do curso de Tecnologia em Desenvolvimento de Software Multiplataforma,
 Agora que vocês já dominam os conceitos de orientação a objetos em Java, chegou a hora de
@@ -27,6 +27,7 @@ disponível na loja. Além dos atributos herdados da classe Produto, um produto 
 possui informações como formato (MP3, PDF, etc.) e tamanho do arquivo. Vocês devem
 sobrescrever o método de exibir informações sobre o produto para exibir também essas
 informações específicas.<br>
+
 4.  Carrinho: Essa classe representa o carrinho de compras de um cliente. Cada carrinho
 possui uma coleção de produtos adicionados. Vocês devem implementar os métodos
 necessários para adicionar um produto ao carrinho, remover um produto do carrinho e
